@@ -1,102 +1,67 @@
-# Hi, I'm Abu Jafor 👋
+<div align="center">
 
-### Frontend Developer | Computer Science Student | AI & Computer Vision Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1565C0&height=220&section=header&text=Md.%20Abu%20Jafor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
 
-I'm a passionate Frontend Developer and Computer Science & Engineering student who enjoys building modern web applications and solving real-world problems through technology.
+### Junior Full-Stack Developer &nbsp;|&nbsp; AI & Computer Vision Enthusiast
 
-Currently, I focus on developing responsive and scalable applications using React, Next.js, TypeScript, and Tailwind CSS while exploring Artificial Intelligence, Computer Vision, and Deep Learning.
+📍 Cumilla, Bangladesh &nbsp;·&nbsp; ✉️ jafor.cse07@gmail.com
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-jafor-02b629244/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/blackChips28)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jafor752/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jafor.cse07@gmail.com)
 
-## 🚀 About Me
-
-* 🎓 Final Year Computer Science & Engineering Student
-* 💻 Frontend Developer specializing in React Ecosystem
-* 🌱 Currently learning Next.js, TypeScript, System Design, and AI Integration
-* 🤖 Interested in Machine Learning, Computer Vision, and Deep Learning
-* 🔬 Working on AI-powered agriculture and image processing projects
-* 🎯 Seeking opportunities to contribute, learn, and grow as a Software Engineer
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 About Me
 
-### Frontend
+I'm a Computer Science & Engineering graduate from BAIUST, currently working as a **Frontend Developer Intern** where I build and ship features on a live production platform using **React, Next.js, and PostgreSQL**. Alongside web development, I have hands-on experience in **applied AI and Computer Vision**, including a YOLO-based crop disease detection capstone (research paper under review). I enjoy working across the frontend, backend, and database layers, and I'm looking to grow into a strong full-stack engineer through real production work and team collaboration.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css)
+## 🔭 What I'm Doing Right Now
 
-### Backend
+- 💼 Building production features (responsive UI, new modules) at **InitZone Bangladesh** using React, Next.js & TypeScript
+- ✍️ Contributing frontend & backend work to **[Portulika](https://portulika.com)** — a live storytelling/publishing platform for Bangladeshi writers and readers
+- 🌾 Finalizing my research paper on **AgriBot**, a YOLO-based rice disease detection & remedy recommendation system
+- 📚 Enrolled in **Programming Hero** — completed HTML, CSS, JavaScript, TypeScript & Tailwind CSS, currently learning **React**
+- 🌱 Exploring deeper Computer Vision & applied ML techniques (YOLO, OpenCV, dataset annotation/augmentation)
+- 🎯 Actively looking for entry-level Software Engineer / Full-Stack Developer opportunities
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+## 🛠 Skills
 
-### Database
+**Languages**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
+<img src="https://skillicons.dev/icons?i=py,js,php,c,cpp" />
 
-### AI & Computer Vision
+**Full-Stack Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,postgres,mysql,php" />
 
----
+_React — currently learning 🌱_
 
-## 🌟 Featured Projects
+**Computer Vision & Machine Learning**
 
-### 🌾 AgriBot – Rice Disease Detection System
+<img src="https://skillicons.dev/icons?i=opencv,py" />&nbsp;
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" height="28"/>
 
-AI-powered agricultural assistant capable of detecting rice diseases using Computer Vision and Deep Learning.
+**Tools & Platforms**
 
-**Tech:** React, Python, YOLO, FastAPI, PostgreSQL
-
-### 🌦 WeatherSphere
-
-Modern weather dashboard with real-time forecasts, city search, and responsive UI.
-
-**Tech:** React, TypeScript, Tailwind CSS, OpenWeather API
-
-### 🛒 Multi-Vendor E-Commerce Platform
-
-Marketplace platform inspired by Amazon and Daraz featuring vendor management and product analytics.
-
-**Tech:** React, Node.js, MongoDB
-
----
-
-## 📈 Current Focus
-
-* Advanced React & Next.js Development
-* TypeScript Best Practices
-* AI-Powered Web Applications
-* Computer Vision Projects
-* Software Engineering Fundamentals
-
----
+<img src="https://skillicons.dev/icons?i=github,vscode,vercel,git,slack,colab" />
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jafor07\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jafor07\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Jafor07&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jafor07&theme=tokyonight" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jafor07\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jafor07&layout=compact&theme=tokyonight" height="165"/>
 
----
-
-## 🤝 Connect With Me
-
-* GitHub: https://github.com/Jafor07
-* LinkedIn: https://www.linkedin.com/in/abu-jafor-02b629244/
-* Facebook: https://www.facebook.com/blackChips28
+</div>
 
 ---
 
-⭐ Building impactful software, learning every day, and turning ideas into real products.
+<div align="center">
+⭐ Building real products, learning by shipping, and growing one commit at a time.
+</div>

@@ -23,7 +23,7 @@ I'm a Computer Science & Engineering graduate from BAIUST, currently working as 
 
 - 💼 Building production features (responsive UI, new modules) at **InitZone Bangladesh** using React, Next.js & TypeScript
 - 🌾 Finalizing my research paper on **AgriBot**, a YOLO-based rice disease detection & remedy recommendation system
-- 📚 Enrolled in **Programming Hero** — completed HTML, CSS, JavaScript, TypeScript & Tailwind CSS, currently learning **React**
+- 📚 Enrolled in **Programming Hero** - completed HTML, CSS, JavaScript, TypeScript & Tailwind CSS, currently learning **React**
 - 🌱 Exploring deeper Computer Vision & applied ML techniques (YOLO, OpenCV, dataset annotation/augmentation)
 - 🎯 Actively looking for entry-level Software Engineer / Full-Stack Developer opportunities
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1565C0&height=220&section=header&text=Md.%20Abu%20Jafor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/8ad3c5f0-a996-407a-ba7f-079a59e5b35c" />
 
 ### Junior Full-Stack Developer &nbsp;|&nbsp; AI & Computer Vision Enthusiast
 

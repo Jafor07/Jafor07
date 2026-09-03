@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Hi,%20I%27m%20Jafor%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Junior%20Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/442d7e6e-150c-4cd0-a48a-cfb56fc4f1c5" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+production+features+with+React+%26+Next.js;Exploring+Computer+Vision+%26+Applied+ML;Shipping+ideas+into+real+products;Open+to+Full-Stack+opportunities" alt="Typing SVG"/>

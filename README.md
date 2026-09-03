@@ -138,8 +138,7 @@ A React + Vite weather app pulling live data from the OpenWeatherMap, REST Count
 
 </div>
 
-> ⚠️ This animates automatically once the included `snake.yml` GitHub Action is added to this repo — see the setup note in the shared files.
-
+> 
 ---
 
 <div align="center">

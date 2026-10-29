@@ -1,21 +1,36 @@
 <div align="center">
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/442d7e6e-150c-4cd0-a48a-cfb56fc4f1c5" />
+<img width="100%" alt="Abu Jafor — GitHub Profile Banner" src="https://github.com/user-attachments/assets/442d7e6e-150c-4cd0-a48a-cfb56fc4f1c5" />
 
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+production+features+with+React+%26+Next.js;Exploring+Computer+Vision+%26+Applied+ML;Shipping+ideas+into+real+products;Open+to+Full-Stack+opportunities" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+production+features+with+React+%26+Next.js;Exploring+Computer+Vision+%26+Applied+ML;Shipping+ideas+into+real+products;Open+to+Frontend+%26+Full-Stack+Opportunities" alt="Typing SVG" />
 </a>
 
-📍 Cumilla, Bangladesh &nbsp;·&nbsp; ✉️ jafor.cse07@gmail.com
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-jafor-02b629244/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/blackChips28)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jafor752/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jafor.cse07@gmail.com)
+📍 Cumilla, Bangladesh &nbsp;·&nbsp; ✉️ [jafor.cse07@gmail.com](mailto:jafor.cse07@gmail.com)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/abu-jafor-02b629244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/blackChips28">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/jafor752/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:jafor.cse07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jafor07&label=Profile%20Views&color=7aa2f7&style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20to-Full--Stack%20Roles-2ea44f?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20to-Frontend%20%26%20Full--Stack%20Roles-2ea44f?style=flat-square)
 
 </div>
 
@@ -23,94 +38,228 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science & Engineering graduate from **BAIUST**, currently working as a **Frontend Developer Intern** where I build and ship features on a live production platform using **React, Next.js, and PostgreSQL**. Alongside web development, I have hands-on experience in **applied AI and Computer Vision**, including a YOLO-based crop disease detection capstone (research paper under review). I enjoy working across the frontend, backend, and database layers, and I'm looking to grow into a strong full-stack engineer through real production work and team collaboration.
+Hey there! I'm **Abu Jafor**, a Computer Science and Engineering graduate from **Bangladesh Army International University of Science and Technology (BAIUST)**.
 
-## 🔭 What I'm Doing Right Now
+I'm interested in building useful web applications with **React, Next.js, TypeScript, and modern web technologies**. My experience includes developing frontend features, working with APIs, integrating authentication, connecting applications to databases, and deploying web projects.
 
-- 💼 Building production features (responsive UI, new modules) at **InitZone Bangladesh** using React, Next.js & TypeScript
-- 🏆 Competing in the **RACDOX Hackathon**, building a conversion-focused landing page for a furniture brand
-- 🌾 Finalizing my research paper on **AgriBot**, a YOLO-based rice disease detection & remedy recommendation system
-- 📚 Enrolled in **Programming Hero** — completed HTML, CSS, JavaScript, TypeScript & Tailwind CSS, currently learning **React**
-- 🌱 Exploring deeper Computer Vision & applied ML techniques (YOLO, OpenCV, dataset annotation/augmentation)
-- 🧑‍💼 Building a freelance presence on **Fiverr**
-- 🎯 Actively looking for entry-level Software Engineer / Full-Stack Developer opportunities
+I've also worked on **AgriBot**, an academic computer vision project focused on rice disease detection using YOLO-based object detection and remedy recommendations for farmers.
+
+I enjoy learning by building real projects, improving my software engineering fundamentals, and turning ideas into functional products.
+
+- 💻 **Focus:** Frontend and full-stack web development
+- ⚛️ **Core technologies:** React, Next.js, JavaScript, TypeScript
+- 🗄️ **Backend and database:** Supabase, PostgreSQL, MongoDB
+- 🤖 **Additional interest:** Computer vision and applied machine learning
+- 🚀 **Deployment:** Vercel and Netlify
+- 🎯 **Career goal:** Junior Frontend Developer / Junior Software Engineer
+
+---
+
+## 🔭 What I'm Working On
+
+- 🛍️ Improving **Aroma Avenue**, a full-stack perfume e-commerce platform.
+- 🛒 Developing **Bazar Dor**, a Bangla grocery price-tracking application.
+- 🌾 Exploring computer vision through **AgriBot**, a rice disease detection project.
+- ⚛️ Strengthening my React, Next.js, TypeScript, and JavaScript fundamentals.
+- 🧩 Improving component design, application architecture, and API integration.
+- 🧑‍💻 Practicing problem-solving and preparing for software engineering interviews.
+
+---
 
 ## 🧰 Tech Stack
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,php,c,cpp" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,c,cpp" alt="Programming languages" />
+</p>
 
-**Frontend**
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Frontend technologies" />
+</p>
 
-_🌱 React — currently leveling up_
+### Backend & Databases
 
-**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mysql,mongodb,supabase" alt="Backend and database technologies" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=django,flask,postgres,mysql,php" />
+### Computer Vision & Machine Learning
 
-**Computer Vision & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv" alt="Computer vision technologies" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" height="28" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" height="28" alt="Google Colab" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=opencv,py" />&nbsp;
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" height="28"/>
+### Tools & Platforms
 
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=github,vscode,vercel,git,slack,colab" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman" alt="Development tools" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌾 AgriBot — Rice Disease Detection & Remedy System
-A YOLO-based computer vision system that detects rice crop diseases and recommends remedies, trained on a large, augmented dataset. **YOLOv9-Small** emerged as the top-performing model. Research paper currently under review.
+### 1. 🛍️ Aroma Avenue — Full-Stack E-Commerce Platform
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv9](https://img.shields.io/badge/YOLOv9-111111?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+A full-stack perfume e-commerce application built with Next.js, TypeScript, and Supabase. The platform includes a customer shopping experience, administrative tools, order management, and manual mobile-wallet payment verification.
 
----
+**Key Features**
 
-### 📖 Portulika — Full-Stack Story Platform
-A story-writing and sharing platform with a Next.js frontend and a Django REST Framework backend, including a complete admin panel. Built the Overview dashboard with Recharts-powered analytics and KPI cards, backed by custom Django stats endpoints.
+- 🛒 Product catalog and shopping experience
+- 🔐 Authentication and database access controls
+- 📦 Order management and inventory handling
+- 💳 Manual mobile-wallet payment verification
+- 🧾 Transaction ID validation and duplicate prevention
+- 🎟️ Coupon management
+- 🛠️ Administrative product, order, payment, and content management
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
+**Tech Stack**
 
----
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-### 📊 Nexora — SaaS Analytics Dashboard
-A SaaS analytics dashboard built from the ground up, with global state persistence handled by a custom Zustand store.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+🔗 **[Live Demo](https://aromaavenue-bc28.vercel.app/)** · **[Source Code](https://github.com/Jafor07/Aroma-avenue)**
 
 ---
 
-### 🗂️ Multi Sheba — সব সেবা এক জায়গায়
-A live Bangla service-aggregator platform offering government paperwork, printing, online applications, and bill-pay services, with bKash/Nagad payment integration.
-🔗 **[multisheba.netlify.app](https://multisheba.netlify.app/)**
+### 2. 🛒 বাজার দর (Bazar Dor) — Bangla Grocery Price Tracker
 
-![Web App](https://img.shields.io/badge/Web%20App-2ea44f?style=flat-square)
-![Payments](https://img.shields.io/badge/Payments-bKash%2FNagad-e2136e?style=flat-square)
+A Bangla-language grocery price-tracking web application designed to help users explore everyday grocery products, compare market prices, and understand price variations.
+
+**Key Features**
+
+- 🏠 Organized grocery product discovery
+- 🛍️ Category-based browsing and sorting
+- 📊 Product price statistics
+- 📈 Price movement ticker
+- 🗓️ Historical price views
+- 🔐 Email and social authentication
+- 👤 Protected routes and user profile management
+- 🇧🇩 Bengali-friendly price presentation
+
+**Tech Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Better_Auth-333333?style=flat-square" alt="Better Auth" />
+</p>
+
+🔗 **[Live Demo](https://bazar-dor-theta-ebon.vercel.app/)** · **[Source Code](https://github.com/Jafor07/bazar-dor)**
 
 ---
 
-### ⛅ WeatherSphere — Live Weather App
-A React + Vite weather app pulling live data from the OpenWeatherMap, REST Countries, and Unsplash APIs.
+### 3. 🌾 AgriBot — Rice Disease Detection & Remedy Recommendation
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
+An academic computer vision project focused on detecting rice leaf diseases using YOLO-based object detection and providing relevant remedy recommendations.
 
-> 💡 Swap in the repo/live links above where you have them — placeholders were left out rather than guessed.
+The project explores the application of deep learning to agricultural problems affecting farmers in Bangladesh.
+
+**Key Highlights**
+
+- 🌱 Rice leaf disease detection
+- 🧠 YOLO-based object detection
+- 🖼️ Dataset preparation and augmentation
+- 📊 Model training and performance evaluation
+- 🌾 Agricultural problem-solving through computer vision
+
+**Tech Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" alt="YOLO" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab" />
+</p>
+
+🔗 **[GitHub Profile](https://github.com/Jafor07)** · Research paper under review
+
+---
+
+### 4. 🏋️ FitLog — Fitness Tracking Web Application
+
+A fitness-focused web application built to provide an organized interface for fitness-related information and workout tracking.
+
+**Key Highlights**
+
+- 💪 Fitness-focused user interface
+- 📱 Responsive layouts
+- 🧩 Reusable UI components
+- ⚡ Modern frontend development workflow
+
+**Tech Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+🔗 **[Live Demo](https://fit-log-bc28.vercel.app/)** · **[Source Code](https://github.com/Jafor07/Fit-log)**
+
+---
+
+### 5. 🧑‍💻 DevStack — Developer Resource Platform
+
+A frontend project focused on organizing developer resources in an accessible, component-based web interface.
+
+**Key Highlights**
+
+- 🧰 Organized developer resources
+- 🧭 Straightforward navigation
+- 📱 Responsive user interface
+- ⚛️ Component-based React development
+
+**Tech Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+🔗 **[Live Demo](https://ph-a05-dev-stack.vercel.app/)** · **[Source Code](https://github.com/ProgrammingHero1/B14-A05-DevStack)**
+
+---
+
+### 6. 🌐 Multi Sheba — Bangla Digital Service Platform
+
+A Bangla-oriented service platform that brings digital service information and everyday service offerings together through a web interface.
+
+**Key Highlights**
+
+- 🌐 Digital service-oriented web platform
+- 🇧🇩 Bangla-friendly user experience
+- 📱 Responsive interface
+
+🔗 **[Live Demo](https://multisheba.netlify.app/)**
+
+---
+
+## 💼 Professional Experience
+
+### Frontend Developer Intern — InitZone
+
+**June 2026 – September 2026**
+
+- Contributed to frontend development tasks on a team project.
+- Worked with Git and GitHub branches and pull requests.
+- Implemented assigned UI sections and responsive components.
+- Collaborated with team members through a remote development workflow.
 
 ---
 
@@ -118,13 +267,21 @@ A React + Vite weather app pulling live data from the OpenWeatherMap, REST Count
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jafor07&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jafor07&theme=tokyonight" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jafor07&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jafor07&layout=compact&theme=tokyonight" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Jafor07&theme=tokyonight&no-frame=true&row=1&column=7" height="165"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jafor07&theme=tokyonight" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jafor07&theme=tokyo-night&hide_border=true" width="100%"/>
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jafor07&layout=compact&theme=tokyonight" alt="Most used programming languages" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jafor07&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jafor07&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -134,17 +291,34 @@ A React + Vite weather app pulling live data from the OpenWeatherMap, REST Count
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jafor07/Jafor07/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jafor07/Jafor07/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
 
-> 
+> **Note:** The contribution snake requires a GitHub Actions workflow to generate and publish the SVG to the `output` branch.
+
 ---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities where I can contribute to real products, strengthen my engineering skills, and collaborate with experienced developers.
+
+If you're working on an interesting web application or have a suitable junior frontend or software engineering opportunity, feel free to connect.
 
 <div align="center">
 
-⭐ Building real products, learning by shipping, and growing one commit at a time.
+<a href="https://www.linkedin.com/in/abu-jafor-02b629244/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer" width="100%"/>
+<a href="mailto:jafor.cse07@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" />
+</a>
+
+<br/><br/>
+
+⭐ **Building useful products, learning by shipping, and improving one commit at a time.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer" width="100%" alt="Decorative footer banner" />
 
 </div>
